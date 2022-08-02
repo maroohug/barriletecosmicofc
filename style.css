@@ -24,7 +24,7 @@ footer{
     bottom: 5px;
 }
 .fotosDelCuerpo{
-    width: 33%;
+    width: 45%;
 }
 
 /*GRID*/
@@ -146,7 +146,6 @@ nav{
 }
 .menu{
     background-color: rgb(24, 153, 153);
-    height: 75px;
     width: 100%;
     display: flex;
     justify-content: space-between;
